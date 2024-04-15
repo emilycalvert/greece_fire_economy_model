@@ -10,3 +10,5 @@ https://ypen.gov.gr/perivallon/dasi/diacheirisi-dason/etisia-synoliki-paragogi-d
 https://www.statistics.gr/en/statistics/-/publication/SPG06/-
 
 https://www.statistics.gr/en/statistics/-/publication/SEL42/-
+
+https://www.fireservice.gr/el_GR/synola-dedomenon
